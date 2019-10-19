@@ -1,0 +1,4923 @@
+
+
+----- Day: 1 -----
+---Rentals Completed Today:---
+No rentals were completed today.
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+	Name: Saw3, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Rake1, Type: Yardwork
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Roller1, Type: Painting
+	Name: Brush3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Wrench2, Type: Plumbing
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 5 Tools:---
+	Name: Sander3, Type: Woodwork
+	Name: Roller3, Type: Painting
+	Name: Wrench1, Type: Plumbing
+	Name: Plunger1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+---Daily Revenue:---
+ 	$1010.75
+
+
+----- Day: 2 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+	Name: Saw3, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $55.25
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Rake1, Type: Yardwork
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Roller1, Type: Painting
+	Name: Brush3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Wrench2, Type: Plumbing
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 2 Tools:---
+	Name: Shovel1, Type: Yardwork
+	Name: Saw3, Type: Woodwork
+
+---Daily Revenue:---
+ 	$291.75
+
+
+----- Day: 3 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Rake1, Type: Yardwork
+Rented for 2 days
+Cost: $28.0
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Wrench2, Type: Plumbing
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $37.5
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Roller1, Type: Painting
+	Name: Brush3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Roller2, Type: Painting
+	Name: Rake1, Type: Yardwork
+	Name: Brush2, Type: Painting
+	Name: Wrench2, Type: Plumbing
+
+---Daily Revenue:---
+ 	$69.0
+
+
+----- Day: 4 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 2 days
+Cost: $67.0
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Roller1, Type: Painting
+	Name: Brush3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 3 days
+Cost: $62.75
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Saw2, Type: Woodwork
+	Name: Plunger2, Type: Plumbing
+	Name: Roller1, Type: Painting
+	Name: Brush3, Type: Painting
+
+---Daily Revenue:---
+ 	$169.0
+
+
+----- Day: 5 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 4 days
+Cost: $117.25
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 2 days
+Cost: $86.75
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 2 days
+Cost: $69.0
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 1 days
+Cost: $43.0
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller1, Type: Painting
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 6 Tools:---
+	Name: Jackhammer1, Type: Concrete
+	Name: Jackhammer2, Type: Concrete
+	Name: Sander2, Type: Woodwork
+	Name: Saw3, Type: Woodwork
+	Name: Shovel1, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+
+---Daily Revenue:---
+ 	$118.75
+
+
+----- Day: 6 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $41.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller1, Type: Painting
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 2 Tools:---
+	Name: Plunger2, Type: Plumbing
+	Name: Saw2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$258.75
+
+
+----- Day: 7 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+Rented for 1 days
+Cost: $41.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller1, Type: Painting
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+
+
+---Currernt Inventory Has 1 Tools:---
+	Name: Sander2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$51.25
+
+
+----- Day: 8 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+Rented for 7 days
+Cost: $250.5
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller1, Type: Painting
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $38.25
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+Rented for 2 days
+Cost: $40.0
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 1 days
+Cost: $31.25
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+
+
+---Currernt Inventory Has 6 Tools:---
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+	Name: Roller1, Type: Painting
+	Name: Jackhammer1, Type: Concrete
+	Name: Plunger2, Type: Plumbing
+
+---Daily Revenue:---
+ 	$20.0
+
+
+----- Day: 9 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 7 days
+Cost: $305.75
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 7 days
+Cost: $197.75
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+Rented for 4 days
+Cost: $55.25
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $60.5
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+
+
+---Currernt Inventory Has 15 Tools:---
+	Name: Brush1, Type: Painting
+	Name: Mixer2, Type: Concrete
+	Name: Saw1, Type: Woodwork
+	Name: Roller1, Type: Painting
+	Name: Jackhammer1, Type: Concrete
+	Name: Plunger2, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander3, Type: Woodwork
+	Name: Wrench2, Type: Plumbing
+	Name: Jackhammer2, Type: Concrete
+	Name: Rake1, Type: Yardwork
+
+---Daily Revenue:---
+ 	$0.0
+
+
+----- Day: 10 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+Rented for 4 days
+Cost: $70.75
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+Rented for 2 days
+Cost: $20.0
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Roller1, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 3 Tools:---
+	Name: Roller2, Type: Painting
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$866.25
+
+
+----- Day: 11 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+Rented for 4 days
+Cost: $39.0
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 4 days
+Cost: $45.0
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Roller1, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $42.0
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $42.5
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 5 Tools:---
+	Name: Brush3, Type: Painting
+	Name: Saw3, Type: Woodwork
+	Name: Roller1, Type: Painting
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+---Daily Revenue:---
+ 	$104.0
+
+
+----- Day: 12 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+Rented for 5 days
+Cost: $94.0
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+Rented for 2 days
+Cost: $20.0
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+Rented for 1 days
+Cost: $12.5
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+
+---Daily Revenue:---
+ 	$227.75
+
+
+----- Day: 13 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+Rented for 2 days
+Cost: $37.0
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+Rented for 3 days
+Cost: $60.0
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 2 Tools:---
+	Name: Sander3, Type: Woodwork
+	Name: Jackhammer1, Type: Concrete
+
+---Daily Revenue:---
+ 	$211.5
+
+
+----- Day: 14 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 5 days
+Cost: $71.75
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+Rented for 3 days
+Cost: $53.25
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $44.5
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Shovel1, Type: Yardwork
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+	Name: Sander2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$177.25
+
+
+----- Day: 15 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 3 days
+Cost: $149.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 5 Tools:---
+	Name: Shovel1, Type: Yardwork
+	Name: Saw2, Type: Woodwork
+	Name: Mixer2, Type: Concrete
+	Name: Rake2, Type: Yardwork
+	Name: Rake1, Type: Yardwork
+
+---Daily Revenue:---
+ 	$72.75
+
+
+----- Day: 16 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $50.75
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+Rented for 4 days
+Cost: $62.0
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 1 days
+Cost: $49.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+	Name: Sander2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$379.5
+
+
+----- Day: 17 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 7 days
+Cost: $268.75
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 1 days
+Cost: $25.0
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+	Name: Shovel1, Type: Yardwork
+
+---Daily Revenue:---
+ 	$104.0
+
+
+----- Day: 18 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 7 days
+Cost: $254.0
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 3 Tools:---
+	Name: Brush1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+
+---Daily Revenue:---
+ 	$320.25
+
+
+----- Day: 19 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Brush2, Type: Painting
+		With an Accessory Kit 
+Rented for 3 days
+Cost: $23.25
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+Rented for 3 days
+Cost: $67.0
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $66.25
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+	Name: Brush1, Type: Painting
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$132.5
+
+
+----- Day: 20 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 5 days
+Cost: $177.25
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+	Name: Brush1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 2 Tools:---
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+
+---Daily Revenue:---
+ 	$99.0
+
+
+----- Day: 21 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer2
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+Rented for 7 days
+Cost: $167.0
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 2 days
+Cost: $37.75
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+Rented for 1 days
+Cost: $46.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+	Name: Brush1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 7 Tools:---
+	Name: Roller3, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$47.25
+
+
+----- Day: 22 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $52.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+	Name: Brush1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 8 Tools:---
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$24.5
+
+
+----- Day: 23 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+Rented for 7 days
+Cost: $165.75
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+	Name: Brush1, Type: Painting
+		With an Extension Chord 
+Rented for 4 days
+Cost: $132.5
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Roller3, Type: Painting
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 1 days
+Cost: $24.5
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 15 Tools:---
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+	Name: Roller2, Type: Painting
+	Name: Shovel2, Type: Yardwork
+	Name: Plunger2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Brush2, Type: Painting
+	Name: Saw2, Type: Woodwork
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+	Name: Jackhammer2, Type: Concrete
+	Name: Wrench2, Type: Plumbing
+	Name: Brush1, Type: Painting
+	Name: Roller3, Type: Painting
+
+---Daily Revenue:---
+ 	$0.0
+
+
+----- Day: 24 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+Rented for 4 days
+Cost: $34.0
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 1 days
+Cost: $47.25
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 3 Tools:---
+	Name: Shovel1, Type: Yardwork
+	Name: Jackhammer1, Type: Concrete
+	Name: Sander3, Type: Woodwork
+
+---Daily Revenue:---
+ 	$696.25
+
+
+----- Day: 25 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $39.25
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 1 days
+Cost: $14.75
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 3 Tools:---
+	Name: Brush2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+	Name: Roller2, Type: Painting
+
+---Daily Revenue:---
+ 	$129.0
+
+
+----- Day: 26 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 7 days
+Cost: $286.25
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+		With an Accessory Kit 
+Rented for 1 days
+Cost: $27.25
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Wrench1, Type: Plumbing
+	Name: Sander1, Type: Woodwork
+	Name: Mixer1, Type: Concrete
+	Name: Jackhammer1, Type: Concrete
+
+---Daily Revenue:---
+ 	$107.75
+
+
+----- Day: 27 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 7 days
+Cost: $287.5
+
+Rentee: 
+	CasualCustomer2
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $50.0
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+Rented for 2 days
+Cost: $24.25
+
+---Current Active Rentals:---
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 8 Tools:---
+	Name: Wrench1, Type: Plumbing
+	Name: Mixer1, Type: Concrete
+	Name: Jackhammer1, Type: Concrete
+	Name: Rake1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Mixer2, Type: Concrete
+	Name: Jackhammer2, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+
+---Daily Revenue:---
+ 	$52.5
+
+
+----- Day: 28 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $46.75
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+		With an Accessory Kit 
+Rented for 4 days
+Cost: $57.25
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+Rented for 2 days
+Cost: $11.0
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Brush1, Type: Painting
+	Name: Plunger1, Type: Plumbing
+	Name: Roller3, Type: Painting
+	Name: Brush2, Type: Painting
+
+---Daily Revenue:---
+ 	$253.0
+
+
+----- Day: 29 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+Rented for 5 days
+Cost: $148.25
+
+Rentee: 
+	CasualCustomer3
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $52.5
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+Rented for 1 days
+Cost: $7.0
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Roller3, Type: Painting
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Brush1, Type: Painting
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 5 Tools:---
+	Name: Saw3, Type: Woodwork
+	Name: Brush3, Type: Painting
+	Name: Roller1, Type: Painting
+	Name: Sander1, Type: Woodwork
+	Name: Wrench1, Type: Plumbing
+
+---Daily Revenue:---
+ 	$103.0
+
+
+----- Day: 30 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Saw2, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 5 days
+Cost: $94.5
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Shovel1, Type: Yardwork
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 5 days
+Cost: $47.0
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Jackhammer1, Type: Concrete
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $48.0
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Mixer2, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 1 days
+Cost: $43.0
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Brush1, Type: Painting
+Rented for 1 days
+Cost: $10.0
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Roller3, Type: Painting
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Brush3, Type: Painting
+	Name: Sander1, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 9 Tools:---
+	Name: Roller1, Type: Painting
+	Name: Saw2, Type: Woodwork
+	Name: Shovel1, Type: Yardwork
+	Name: Rake2, Type: Yardwork
+	Name: Jackhammer1, Type: Concrete
+	Name: Mixer2, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+	Name: Brush2, Type: Painting
+	Name: Brush1, Type: Painting
+
+---Daily Revenue:---
+ 	$108.5
+
+
+----- Day: 31 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Roller3, Type: Painting
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $44.5
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Brush3, Type: Painting
+	Name: Sander1, Type: Woodwork
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $54.75
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Mixer2, Type: Concrete
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Saw2, Type: Woodwork
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 3 Tools:---
+	Name: Roller3, Type: Painting
+	Name: Brush3, Type: Painting
+	Name: Sander1, Type: Woodwork
+
+---Daily Revenue:---
+ 	$613.5
+
+
+----- Day: 32 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer5
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+Rented for 3 days
+Cost: $54.75
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+		With a Protective Gear Pack
+Rented for 3 days
+Cost: $155.0
+
+Rentee: 
+	CasualCustomer4
+Tools Rented: 
+	Name: Wrench1, Type: Plumbing
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 1 days
+Cost: $26.5
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Shovel2, Type: Yardwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 1 days
+Cost: $33.0
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Mixer2, Type: Concrete
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Saw2, Type: Woodwork
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 9 Tools:---
+	Name: Roller3, Type: Painting
+	Name: Brush3, Type: Painting
+	Name: Sander1, Type: Woodwork
+	Name: Sander3, Type: Woodwork
+	Name: Rake1, Type: Yardwork
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+	Name: Wrench1, Type: Plumbing
+	Name: Shovel2, Type: Yardwork
+
+---Daily Revenue:---
+ 	$0.0
+
+
+----- Day: 33 -----
+---Rentals Completed Today:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+Rented for 7 days
+Cost: $221.25
+
+Rentee: 
+	CasualCustomer1
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+		With an Accessory Kit 
+Rented for 2 days
+Cost: $27.25
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Mixer2, Type: Concrete
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Saw2, Type: Woodwork
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Wrench1, Type: Plumbing
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+---Currernt Inventory Has 4 Tools:---
+	Name: Wrench2, Type: Plumbing
+	Name: Sander2, Type: Woodwork
+	Name: Saw1, Type: Woodwork
+	Name: Saw3, Type: Woodwork
+
+---Daily Revenue:---
+ 	$417.75
+
+
+----- Day: 34 -----
+---Rentals Completed Today:---
+Rentee: 
+	CasualCustomer6
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Accessory Kit 
+Rented for 2 days
+Cost: $48.5
+
+---Current Active Rentals:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Mixer2, Type: Concrete
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Shovel1, Type: Yardwork
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Saw2, Type: Woodwork
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Wrench1, Type: Plumbing
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Sander2, Type: Woodwork
+
+
+---Currernt Inventory Has 2 Tools:---
+	Name: Saw1, Type: Woodwork
+	Name: Plunger1, Type: Plumbing
+
+---Daily Revenue:---
+ 	$60.75
+
+
+----- Day: 35 -----
+---Rentals Completed Today:---
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Extension Chord 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+Rented for 5 days
+Cost: $96.75
+
+Rentee: 
+	RegularCustomer4
+Tools Rented: 
+	Name: Brush2, Type: Painting
+	Name: Shovel1, Type: Yardwork
+Rented for 4 days
+Cost: $56.0
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Roller3, Type: Painting
+	Name: Wrench1, Type: Plumbing
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+Rented for 2 days
+Cost: $44.75
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Rake1, Type: Yardwork
+		With a Protective Gear Pack
+		With an Accessory Kit 
+		With an Extension Chord 
+Rented for 2 days
+Cost: $36.75
+
+Rentee: 
+	CasualCustomer7
+Tools Rented: 
+	Name: Saw3, Type: Woodwork
+	Name: Sander2, Type: Woodwork
+Rented for 1 days
+Cost: $20.0
+
+---Current Active Rentals:---
+Rentee: 
+	BusinessCustomer3
+Tools Rented: 
+	Name: Jackhammer1, Type: Concrete
+	Name: Mixer2, Type: Concrete
+	Name: Roller1, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	BusinessCustomer1
+Tools Rented: 
+	Name: Rake2, Type: Yardwork
+	Name: Saw2, Type: Woodwork
+	Name: Brush1, Type: Painting
+		With an Accessory Kit 
+		With an Accessory Kit 
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer1
+Tools Rented: 
+	Name: Sander1, Type: Woodwork
+	Name: Brush3, Type: Painting
+		With an Extension Chord 
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Jackhammer2, Type: Concrete
+	Name: Mixer1, Type: Concrete
+	Name: Shovel2, Type: Yardwork
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+
+
+Rentee: 
+	RegularCustomer2
+Tools Rented: 
+	Name: Sander3, Type: Woodwork
+		With a Protective Gear Pack
+		With an Extension Chord 
+		With an Accessory Kit 
+		With a Protective Gear Pack
+
+
+Rentee: 
+	RegularCustomer3
+Tools Rented: 
+	Name: Wrench2, Type: Plumbing
+		With an Accessory Kit 
+		With a Protective Gear Pack
+		With an Extension Chord 
+
+
+Rentee: 
+	CasualCustomer5
+Tools Rented: 
+	Name: Plunger1, Type: Plumbing
+	Name: Saw1, Type: Woodwork
+		With an Extension Chord 
+		With a Protective Gear Pack
+		With an Accessory Kit 
+
+
+---Currernt Inventory Has 9 Tools:---
+	Name: Roller2, Type: Painting
+	Name: Plunger2, Type: Plumbing
+	Name: Brush2, Type: Painting
+	Name: Shovel1, Type: Yardwork
+	Name: Roller3, Type: Painting
+	Name: Wrench1, Type: Plumbing
+	Name: Rake1, Type: Yardwork
+	Name: Saw3, Type: Woodwork
+	Name: Sander2, Type: Woodwork
+
+---Daily Revenue:---
+ 	$53.75
+
+----------SIMULATION COMPLETE----------
+
+Total Completed Rentals: 85
+	Rentals by Casual Customers: 50
+	Rentals by Regular Customers: 25
+	Rentals by Business Customers: 10
+---Total Revenue Made:--- $7351.5

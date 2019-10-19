@@ -1,36 +1,28 @@
-import java.util.ArrayList;
-import java.util.Random;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
 
 public class main {
 
 	
 	public static void main(String[] args) {
-
-		Random r = new Random();
 		
-		ArrayList<Customer> customers = new ArrayList<Customer>();
-		
-		//Add 6 casual customers
-		for (int i = 0; i<6; i++) {
-			customers.add(new CasualCustomer("CasualCustomer"+Integer.toString(i)));
+		// Set the output stream to output to the file dayatthezoo.out
+		PrintStream streamOut;
+		try {
+			streamOut = new PrintStream("./Simulate_Rental_Store.out");
+			System.setOut(streamOut);
+		} catch (FileNotFoundException e) {
+			System.out.println("Unable to print to file, printing to console.");
 		}
 
-		//Add 2 business customers
-		for (int i = 0; i<2; i++) {
-			customers.add(new BusinessCustomer("BusinessCustomer"+Integer.toString(i)));
-		}
+		// Create a rental store facade object
+		RentalStoreFacade store = new RentalStoreFacade();
 		
-		//Add 4 regular customers
-		for (int i = 0; i<6; i++) {
-			customers.add(new RegularCustomer("RegularCustomer"+Integer.toString(i)));
-		}
+		// Add 2 business, 6 casual, and 4 regular customers to the store
+		store.addCustomers(2, 6, 4);
 		
-		RentalStore store = new RentalStore(customers);
-		
-		for(int i=1; i<=35; i++) {
-			System.out.println("\n\n----- Day: "+Integer.toString(i)+" -----");
-			store.nextDay();
-		}
+		// Open the store for business for 35 days.
+		store.openStore(35);
 		
 	}
 

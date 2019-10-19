@@ -1,15 +1,20 @@
 import java.util.Random;
 
+// Regular customer object extends customer abstract class
+// Rents 1-3 tools for 3-5 days
 public class RegularCustomer extends Customer{
 
 	Random r = new Random();
 	
-	
+	// Constructor sets name, sets type to Regular
 	public RegularCustomer(String n) {
 		this.setName(n);
+		this.setType("Regular");
 	}
 	
 	
+	// If there is no inventory, nothing is rented, otherwise it rents a random number up to 3
+	// Rents tools for a random amount of time from 3-5 days.
 	@Override
 	void rentTools(RentalStore store) {
 		int numTools = 0;

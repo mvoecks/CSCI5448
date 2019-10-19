@@ -1,5 +1,8 @@
 package Tools;
 
+// Factory Design pattern is used to create tools. This class has one function which is to 
+// accept a request from the rentalStore to create a the tool object they specify. if the tool
+// does not exist an error is thrown.
 public class ToolFactory {
 	
 	// Retrieves a tool specified by the paramters
