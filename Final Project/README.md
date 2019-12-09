@@ -17,4 +17,4 @@ BEFORE RUNNING ANY CODE, Ensure that you have a sqlite3 database named 'phishsta
 
 This program uses the python console to display information and gather input from the user, so it is recommeded that it is run via the command line (linux) or via Powershell (windows). To start the program naviate to the Code folder and execute the command
 
-_python ./runner.py
+_python ./runner.py_ 
