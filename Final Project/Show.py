@@ -91,7 +91,6 @@ class Show():
         return self.setlist
 
     def getVenue(self):
-        print(self.venue)
         return self.venue
 
     def getLocation(self):
@@ -126,7 +125,12 @@ class OneSetShow(Show):
         setlistInfo, footerInfo = self.parseSetlist(setlistData)
         setlistDict = {}
         setlistDict['set1'] = setlistInfo[0]
-        setlistDict['encore'] = setlistInfo[1]
+
+        if (len(setlistInfo) == 1):
+            setlistDict['encore'] = []
+        else:
+            setlistDict['encore'] = setlistInfo[1]
+
         return setlistDict, footerInfo
 
     def printSetlist(self):
@@ -156,7 +160,12 @@ class TwoSetShow(Show):
         setlistDict = {}
         setlistDict['set1'] = setlistInfo[0]
         setlistDict['set2'] = setlistInfo[1]
-        setlistDict['encore'] = setlistInfo[2]
+
+        if (len(setlistInfo) == 2):
+            setlistDict['encore'] = []
+        else:
+            setlistDict['encore'] = setlistInfo[2]
+
         return setlistDict, footerInfo
 
     def printSetlist(self):
@@ -191,7 +200,13 @@ class ThreeSetShow(Show):
         setlistDict['set1'] = setlistInfo[0]
         setlistDict['set2'] = setlistInfo[1]
         setlistDict['set3'] = setlistInfo[2]
-        setlistDict['encore'] = setlistInfo[3]
+
+        # No Encore, skip, set to ''
+        if (len(setlistInfo) == 1):
+            setlistDict['encore'] = []
+        else:
+            setlistDict['encore'] = setlistInfo[3]
+
         return setlistDict, footerInfo
 
     def printSetlist(self):

@@ -9,6 +9,17 @@ class Database():
     def __del__(self):
         self.conn.close()
 
+    def loadUser(self, name):
+        self.c.execute('SELECT * FROM Users WHERE name = ?', [name])
+        shows = self.c.fetchall()
+        if shows == []:
+            return -1
+        else:
+            showlist = []
+            for date in shows:
+                showlist.append(date[1])
+            return showlist
+
     def inDatabase(self, date):
         self.c.execute('SELECT * FROM Shows WHERE Date = ?', [date])
         if self.c.fetchone() == None:
@@ -68,3 +79,15 @@ class Database():
 
         else:
             return -1
+
+    def addShowToUser(self, name, date):
+        self.c.execute("SELECT * FROM Users WHERE name=? and date=?", [name, date])
+        if self.c.fetchone() == None:
+            self.c.execute("INSERT INTO Users (name, date) VALUES (?, ?)", [name, date])
+            self.conn.commit()
+
+    def removeShowFromUser(self, name, date):
+        self.c.execute("SELECT * FROM Users WHERE name=? and date=?", [name, date])
+        if self.c.fetchone() != None:
+            self.c.execute("DELETE FROM Users WHERE name=? and date=?", [name, date])
+            self.conn.commit()
